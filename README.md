@@ -16,4 +16,4 @@ The site was testructured using simple html standards to condense the page adn m
 
 ## Links 
 [github] (https://github.com/oyindami/homework-code-refactor/tree/main)
-[Deployed-site] (
+[Deployed-site] ( https://oyindami.github.io/homework-code-refactor/)
